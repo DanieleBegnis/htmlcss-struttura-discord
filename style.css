@@ -19,6 +19,8 @@
 .container {
     max-width: 1000px;
     margin: 0 auto;
+    min-width: 80%;
+    display: flex;
 }
 
 /*-------------------
@@ -47,13 +49,13 @@ nav {
 }
 header section {
     background-color: blue;
-    display: flex;
+    width: ;
 }
 .headdiv {
     background-color: fuchsia;
     min-height: 250px;
-    margin: 20px 40px;
-    width: 100%;
+    margin: 0 auto;
+    width: 60%;
 }
 
 /*-------------------
