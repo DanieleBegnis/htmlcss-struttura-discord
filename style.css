@@ -53,6 +53,7 @@ header section {
     background-color: fuchsia;
     min-height: 250px;
     margin: 20px 40px;
+    width: 100%;
 }
 
 /*-------------------
