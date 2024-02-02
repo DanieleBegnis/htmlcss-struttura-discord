@@ -8,10 +8,40 @@
 }
 
 /*-------------------
+   PLACEHOLDER
+-------------------*/
+div {
+    border: 2px dashed black ;
+}
+/*-------------------
    BODY
 -------------------*/
 .container {
     max-width: 800px;
     margin: 0 auto;
-    background-color: red;
+}
+
+/*-------------------
+   HEADER
+-------------------*/
+nav {
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    padding: 8px 0;
+}
+.navigation {
+    background-color: gold;
+}
+.logo {
+    text-align: left;
+}
+header section {
+    background-color: blue;
+    display: flex;
+}
+.headdiv {
+    background-color: fuchsia;
+    min-height: 250px;
+    margin: 20px 40px;
 }
