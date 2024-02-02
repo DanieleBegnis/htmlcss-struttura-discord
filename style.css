@@ -83,7 +83,7 @@ main section {
     width: 33.33%;
 }
 .bigrectangle {
-    min-height: 400px;
+    min-height: 600px;
     background-color: green;
     width: 100%;
 }
