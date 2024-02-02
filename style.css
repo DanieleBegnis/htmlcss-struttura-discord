@@ -17,7 +17,7 @@ div {
    BODY
 -------------------*/
 .container {
-    max-width: 800px;
+    max-width: 1000px;
     margin: 0 auto;
 }
 
@@ -35,6 +35,15 @@ nav {
 }
 .logo {
     text-align: left;
+    width: 25%;
+}
+.link {
+    text-align: center;
+    width: 50%;
+}
+.login {
+    text-align: right;
+    width: 25%;
 }
 header section {
     background-color: blue;
