@@ -54,3 +54,25 @@ header section {
     min-height: 250px;
     margin: 20px 40px;
 }
+
+/*-------------------
+   MAIN
+-------------------*/
+main section {
+    display: flex;
+    padding: 20px 0;
+}
+.white {
+    background-color: white;
+}
+.rectangle {
+    min-height: 300px
+}
+.lightblue {
+    background-color: lightblue;
+    width: 66.66%
+}
+.pink{
+    background-color: pink;
+    width: 33.33%;
+}
