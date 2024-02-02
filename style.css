@@ -6,3 +6,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/*-------------------
+   BODY
+-------------------*/
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: red;
+}
