@@ -88,10 +88,13 @@ main section {
 /*-------------------
    FOOTER
 -------------------*/
-.top-footer {
+footer section{
     background-color: rgba(0, 0, 0, 0.8);
     display: flex;
+}
+.top-footer {
     padding-top: 4px;
+    padding-bottom: 8px;
 }
 .small {
     width: 30%;
@@ -105,4 +108,13 @@ main section {
 .rectangle .smaller {
     width: 25%;
     border: 2px dashed white;
+}
+.bottom-footer {
+    padding-top: 6px;
+    border-top: 1px solid grey;
+}
+.bottom {
+    display: flex;
+    background-color: aquamarine;
+    padding: 4px;
 }
