@@ -84,3 +84,25 @@ main section {
     background-color: green;
     width: 100%;
 }
+
+/*-------------------
+   FOOTER
+-------------------*/
+.top-footer {
+    background-color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    padding-top: 4px;
+}
+.small {
+    width: 30%;
+    background-color: salmon;
+}
+.large {
+    width: 70%;
+    background-color: aqua;
+    display: flex;
+}
+.rectangle .smaller {
+    width: 25%;
+    border: 2px dashed white;
+}
