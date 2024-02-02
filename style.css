@@ -65,6 +65,9 @@ main section {
 .white {
     background-color: white;
 }
+.grey {
+    background-color: lightgray;
+}
 .rectangle {
     min-height: 300px
 }
